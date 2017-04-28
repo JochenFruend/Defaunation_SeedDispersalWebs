@@ -1,4 +1,4 @@
-This is the R-Code for the paper by Donoso I, Schleuning M, Garcia D and Fruend J, accepted in Proceedings of the Royal Society B.
+This is the R-Code for the paper by Isabel Donoso, Matthias Schleuning, Daniel García and Jochen Fründ, accepted in Proceedings of the Royal Society B.
 
 Details of the paper will follow upon publication.
 
